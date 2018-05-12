@@ -1,0 +1,28 @@
+_repo: Fred-Fenton-on-the-Crew--Or-The-Young-Oarsmen-of-Riverport-School_21594
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21594-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- School Stories
+gutenberg_issued: '2007-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rowing -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Fiction'
+title: Fred Fenton on the Crew; Or, The Young Oarsmen of Riverport School
+url: http://www.gutenberg.org/ebooks/21594
